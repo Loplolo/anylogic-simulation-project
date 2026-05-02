@@ -3,6 +3,6 @@
 Università degli Studi di Milano
 Year 2025/2026
 
-Project for the Simulation course, described inside `Project.pdf`
+Project for the Simulation course, described in [Project (PDF)](https://github.com/user-attachments/files/27299949/Project.pdf)
 
 _Please do not copy and use as your project._
